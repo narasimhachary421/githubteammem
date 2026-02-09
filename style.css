@@ -1,0 +1,17 @@
+header{
+    background-color: aqua;
+}
+ul{
+    font-size: x-large;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
